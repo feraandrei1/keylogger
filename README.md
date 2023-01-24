@@ -13,7 +13,9 @@ pip install -r requirements.txt
 ## How to use
 
 Use the "Mail" app from your computer and create an Outlook email. Connect to it.
+
 Type in the keylogger.py your credentials.
+
 Run the keylogger.py
 
 ## Info
